@@ -1,0 +1,28 @@
+{
+  "name": "devast-io-assets",
+  "version": "1.0.0",
+  "description": "Devast.io assets scripts",
+  "scripts": {
+    "make": "make all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hinell/devast.io-assets.git"
+  },
+  "keywords": [
+    "devast",
+    "iogames",
+    "game",
+    "assets",
+    "icons"
+  ],
+  "author": "al.neodim@gmail.com",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/hinell/devast.io-assets/issues"
+  },
+  "engines": {
+	  "node":">=16.15.1"
+  },
+  "homepage": "https://github.com/hinell/devast.io-assets#readme"
+}
